@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Campaigntrack\\Projects\\Ruby"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Cucumber",
+				"type": "Ruby",
+				"request": "launch",
+				"program": "${workspaceRoot}/bin/cucumber"
+			}
+		]
+	}
+}
